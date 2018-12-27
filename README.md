@@ -1,8 +1,8 @@
-# Mini-PHP-MVC-Based-Framework
 Hey, This is my own written php mvc based framework for you guys mean its totally free you can create your web app with it in mvc pattern !
 
 
 ===========REQUIREMENTS==================
+
 PHP:           v7.0+
 MYSQL:         4.7.0.1+
 Web Server:    Apache/2.4.33
