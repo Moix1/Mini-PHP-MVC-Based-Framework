@@ -3,7 +3,7 @@ Hey, This is my own written php mvc based framework for you guys mean its totall
 
 ===========REQUIREMENTS==================
 
-PHP:           v7.0+
+PHP:           v7.0+<br>
 MYSQL:         4.7.0.1+
 Web Server:    Apache/2.4.33
 PHP version:   7.2.5
