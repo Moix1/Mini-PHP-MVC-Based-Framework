@@ -45,7 +45,7 @@
       // Bind values
       public function bind($param, $value, $type = null)
       {
-          if(iss_null($type))
+          if(is_null($type))
           {
             switch(true)
             {
